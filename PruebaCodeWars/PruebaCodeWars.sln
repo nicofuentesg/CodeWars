@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaCodeWars", "PruebaCodeWars\PruebaCodeWars.csproj", "{645636AE-3FC4-4706-BA19-EF9E43298E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{645636AE-3FC4-4706-BA19-EF9E43298E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645636AE-3FC4-4706-BA19-EF9E43298E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645636AE-3FC4-4706-BA19-EF9E43298E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645636AE-3FC4-4706-BA19-EF9E43298E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
